@@ -10,3 +10,8 @@ ChatStats provides insights and analysis on your conversations with ChatGPT. Sim
 To get started, you will need your ChatGPT chat history in JSON format. You can get this from the [ChatGPT website](https://chat.openai.com/#settings): Account Settings --> Data Controls --> Export Data.
 
 Next, download and run the ChatStats notebook.
+
+# Additional Resources
+
+[New Ways to Manage Your Data in ChatGPT](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt)
+[Prompt Engineering: 6 Strategies for Getting Better Results](https://platform.openai.com/docs/guides/prompt-engineering)
