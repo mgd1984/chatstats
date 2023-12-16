@@ -2,6 +2,8 @@
 
 ChatStats provides insights and analysis on your conversations with ChatGPT. Similar to Spotify's Year in Review, ChatStats offers a comprehensive overview of your chat history, highlighting key statistics and trends. As the field of prompt engineering continues to grow, ChatStats can be a valuable tool for understanding the dynamics of your chat conversations and learning how to craft more sophisticated prompts.
 
+![Alt text](image.png)
+
 ## Features
 
 1. **Conversation Count**: ChatStats provides the total number of conversations in your chat history, giving you an idea of the volume of interactions.
